@@ -14,3 +14,23 @@ p1.purple{
    
 
 }
+
+.table2 {
+    border: 1px solid;
+    border: black 1px solid;
+    width: 40%;
+    text-align: center;
+  
+}
+.table-wrapper0 {
+    display: flex; /* Устанавливаем режим flex для body */
+    justify-content: center; /* Выравниваем содержимое по центру по горизонтали */
+    align-items: center; /* Выравниваем содержимое по центру по вертикали */
+  
+  }
+.table-wrapper1 {
+    display: flex; /* Устанавливаем режим flex для body */
+    justify-content: center; /* Выравниваем содержимое по центру по горизонтали */
+    align-items: center; /* Выравниваем содержимое по центру по вертикали */
+  
+  }
